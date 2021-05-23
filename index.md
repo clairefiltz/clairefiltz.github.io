@@ -13,7 +13,7 @@ I spent time abroad in Japan and South Korea to further improve my language skil
 
 ## Research Interests
 
-- **Pragmatics:** scalar implicatures, conversational implicatures, neo-Gricean
+- **Pragmatics:**  Neo-Gricean pragmatics, conversational implicatures, scalar implicatures
 - **Semantics :** lexical semantics
 
 

@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a Masters student at Leiden University studying Linguistics (Language and Communication). I am particularly interested in Neo-Gricean pragmatics, scalar implicatures and lexical semantics. I am currently working on my Master thesis in which I am investigating the generation of generalized conversational implicatures associated with the use of the indefinite article.
-
+I am a master’s student at Leiden University studying Linguistics (Language and Communication). I am particularly interested in Neo-Gricean pragmatics, scalar implicatures and lexical semantics. I am currently working on my Master thesis in which I am investigating the generation of generalized conversational implicatures associated with the use of the indefinite article.
+<br>
 Lately I have started exploring computational linguistics and how it ties to my current research interests.
-
+<br>
 I am also interested in learning languages. I am fluent in French, German, English and during my undergraduate 
 I spent time abroad in Japan and South Korea to further improve my language skills.
 

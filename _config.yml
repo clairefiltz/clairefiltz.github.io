@@ -1,15 +1,14 @@
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
+title: Claire-Emeraude Filtz
+position: Master Student
+affiliation: Leiden University, Netherlands
 email: yourname (at) example.edu
-keywords: minimal academic
+keywords: Linguistics Semantics Pragmatics
 google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
+github_link: https://github.com/clairefiltz
 linkedin: https://www.linkedin.com/
 avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
+description: Personal home page.
+canonical: https://clairefiltz.github.io/
 remote_theme: yaoyao-liu/minimal-light

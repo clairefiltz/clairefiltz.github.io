@@ -35,6 +35,6 @@ I spent time abroad in Japan and South Korea to further improve my language skil
   <br>
   Advised by: [Dr. Jon Ander Mendia](https://jamendia.github.io), [Univ.-Prof. Dr. Hana Filip, PhD](https://user.phil-fak.uni-duesseldorf.de/~filip/)
   <br>
-  [[PDF](ba.pdf)]
+  [[PDF](BA.pdf)]
 
 

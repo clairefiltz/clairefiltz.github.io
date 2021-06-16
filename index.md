@@ -15,11 +15,11 @@ I spent time abroad in Japan and South Korea to further improve my language skil
 
 - **Pragmatics:**  Neo-Gricean pragmatics, conversational implicatures, scalar implicatures
 - **Semantics :** lexical semantics
-
+- **Computational Linguistics:** Natural Language Inference
 
 ## Thesis
 
-- **On the interpretation of indefinite noun phrases in English: a corpus study (Tentative)**
+- **On the interpretation of indefinite noun phrases in English: a corpus-based study (Tentative)**
   <br>
   Master's Thesis - Lingustics (In Progress)
   <br>

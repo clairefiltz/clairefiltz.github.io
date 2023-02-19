@@ -26,7 +26,7 @@ I am also interested in learning languages. I am fluent in French, German, Engli
   <br>
   Leiden University, Netherlands
   <br>
-  Advised by: [Prof.dr. Marina Terkourafi](https://www.universiteitleiden.nl/en/staffmembers/marina-terkourafi), [Dr. L. Pablos Robles]
+  Advised by: [Prof.dr. Marina Terkourafi](https://www.universiteitleiden.nl/en/staffmembers/marina-terkourafi), [Dr. L. Pablos Robles](https://www.universiteitleiden.nl/en/staffmembers/leticia-pablos-robles#tab-1)
 
 - **Structural Restrictions on Scalar Implicatures**
   <br>

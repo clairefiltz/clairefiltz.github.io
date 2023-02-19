@@ -34,6 +34,6 @@ I am also interested in learning languages. I am fluent in French, German, Engli
   <br>
   Heinrich-Heine-Universität Düsseldorf, Germany
   <br>
-  Advised by: [Dr. Jon Ander Mendia](https://jamendia.github.io), [Univ.-Prof. Dr. Hana Filip, PhD](https://user.phil-fak.uni-duesseldorf.de/~filip/)
+  Advised by: [Dr. Jon Ander Mendia](https://jamendia.github.io), [Univ.-Prof. Dr. Hana Filip, PhD](https://hanafilip.com)
   <br>
   [[PDF](BA.pdf)]

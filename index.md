@@ -20,7 +20,7 @@ I am also interested in learning languages. I am fluent in French, German, Engli
 
 ## Thesis
 
-- **On the interpretation of indefinite noun phrases in English: a corpus-based study (Tentative)**
+- **On the interpretation of indefinite noun phrases in English: a corpus-based study**
   <br>
   Master's Thesis - Lingustics
   <br>

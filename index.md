@@ -4,17 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a linguist by training and currently working as a Freelance Linguist. Types of works I do include translations, machine-based translation reviews, phonetic transcriptions, quality assurance of written or spoken data and enhancing TTS output.
-
-## Education
-
-- M.A. Linguistics (University of Leiden, Netherlands) - Research interests: Semantics, Neo-Gricean Pragmatics
-- B.A. Linguistics (University of Düsseldorf, Germany) - Research interests: Semantics, Pragmatics, Japanese, Korean
-- intensive training in Data Analysis, Machine Learning, Deep Learning (Python/SQL)
-- Certified Teacher for German as a Foreign Language (DaF)
-- Spoken Languages: French and German (fluent), English (proficient), Korean and Japanese (intermediate)
-
-<br>
+I am a linguist by training and currently working as a Freelance Linguist.
 
 ## Services
 
@@ -23,6 +13,14 @@ I am a linguist by training and currently working as a Freelance Linguist. Types
 - Quality Assurance of written/spoken text
 - Machine-Translation Post-Editing
 - Linguistic Editing
+
+## Education
+
+- M.A. Linguistics (University of Leiden, Netherlands) - Research interests: Semantics, Neo-Gricean Pragmatics
+- B.A. Linguistics (University of Düsseldorf, Germany) - Research interests: Semantics, Pragmatics, Japanese, Korean
+- intensive training in Data Analysis, Machine Learning, Deep Learning (Python/SQL)
+- Certified Teacher for German as a Foreign Language (DaF)
+- Spoken Languages: French and German (fluent), English (proficient), Korean and Japanese (intermediate)
 
 ## Research Interests
 

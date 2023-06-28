@@ -13,6 +13,7 @@ I am a linguist by training and currently working as a Freelance Linguist.
 - Quality Assurance of written/spoken text
 - Machine-Translation Post-Editing
 - Linguistic Editing
+- Text-to-Speech Optimization
 
 ## Education
 
@@ -20,7 +21,7 @@ I am a linguist by training and currently working as a Freelance Linguist.
 - B.A. Linguistics (University of Düsseldorf, Germany) - Research interests: Semantics, Pragmatics, Japanese, Korean
 - intensive training in Data Analysis, Machine Learning, Deep Learning (Python/SQL)
 - Certified Teacher for German as a Foreign Language (DaF)
-- Spoken Languages: French and German (fluent), English (proficient), Korean and Japanese (intermediate)
+- Languages: French and German (fluent), English (proficient), Korean and Japanese (intermediate)
 
 ## Research Interests
 

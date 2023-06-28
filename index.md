@@ -4,15 +4,25 @@ layout: homepage
 
 ## About Me
 
-I am a computational linguist and studied at the Heinrich-Heine-Universität and Leiden University. During my studies, I mainly focused on (Neo-Gricean) pragmatics, scalar implicatures and lexical semantics. In my Master thesis, I investigated the generation of generalized conversational implicatures associated with the use of the indefinite article. While studying, I also started exploring computational linguistics and how it ties to my current research interests.
+I am a linguist by training and currently working as a Freelance Linguist. Types of works I do include translations, machine-based translation reviews, phonetic transcriptions, quality assurance of written or spoken data and enhancing TTS output.
+
+## Education
+
+- M.A. Linguistics (University of Leiden, Netherlands) - Research interests: Semantics, Neo-Gricean Pragmatics
+- B.A. Linguistics (University of Düsseldorf, Germany) - Research interests: Semantics, Pragmatics, Japanese, Korean
+- intensive training in Data Analysis, Machine Learning, Deep Learning (Python/SQL)
+- Certified Teacher for German as a Foreign Language (DaF)
+- Spoken Languages: French and German (fluent), English (proficient), Korean and Japanese (intermediate)
+
 <br>
-In Winter 2021, I completed a intensive training in Data Science at Le Wagon, Berlin to enhance my computational data modeling skillset. This course was focused around Python and libraries like Pandas and NumPy in order to explore foundational tools in Machine Learning and Deep Learning.
-<br>
-After my studies, I worked as a Speech Expert at Cerence, where I worked on the speech prompt optimization of TTS output for the automotive industry. This allowed me to use my computational linguistic and language skills in order to help improving text to speech systems. I was also involved in translating, reviewing translations and testing TTS for NLG projects of different domains.
-<br>
-Since 2023, I am working as a Freelance Linguist. I work for companies like DeepL, for which I do post-editing of machine translations and a publishing house, where I do proofreading and prooflistening for science-fiction (audio)books.
-<br>
-I am also interested in learning languages. I am fluent in French, German, English and during my undergraduate I spent time abroad in Japan and South Korea to further improve my language skills.
+
+## Services
+
+- Translation, Localization
+- Phonetic Transcriptions
+- Quality Assurance of written/spoken text
+- Machine-Translation Post-Editing
+- Linguistic Editing
 
 ## Research Interests
 

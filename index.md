@@ -8,12 +8,13 @@ I am a linguist by training and currently working as a Freelance Linguist.
 
 ## Services
 
-- Translation, Localization
+- Translation, Localization  (German <-> French, English <-> French/German)
 - Phonetic Transcriptions
 - Quality Assurance of written/spoken text
 - Machine-Translation Post-Editing
 - Linguistic Editing
 - Text-to-Speech Optimization
+- Data Analysis
 
 ## Education
 
@@ -27,7 +28,7 @@ I am a linguist by training and currently working as a Freelance Linguist.
 
 - **Pragmatics:**  Neo-Gricean pragmatics, conversational implicatures, scalar implicatures
 - **Semantics :** lexical semantics
-- **Computational Linguistics:** Natural Language Inference, Natural Language Generation
+- **Computational Linguistics:** Natural Language Inference, Natural Language Generation, Large Language Models
 
 ## Thesis
 

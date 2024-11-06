@@ -9,3 +9,9 @@ avatar: ./assets/img/profile.png
 description: Personal home page.
 canonical: https://clairefiltz.github.io/
 remote_theme: yaoyao-liu/minimal-light
+nav_on: true
+nav:
+  - name: Home
+    link: /
+  - name: Teaching
+    link: /teaching/

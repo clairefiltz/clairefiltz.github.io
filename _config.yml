@@ -12,6 +12,6 @@ remote_theme: yaoyao-liu/minimal-light
 nav_on: true
 nav:
   - name: Home
-    link: /
+    link: https://clairefiltz.github.io/
   - name: Teaching
-    link: /teaching/
+    link: https://clairefiltz.github.io/teaching/
